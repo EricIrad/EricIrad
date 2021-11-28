@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EricIrad
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning python
+- 🌱 I’m currently en-rolled in ATLP.
 - 💞️ I’m looking to collaborate on web-dev projects
-- 📫 How to reach me iraduhaeric@hotmail.com
+- 📫 How to reach me iraduhaeric@gmail.com
 
 <!---
 EricIrad/EricIrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
