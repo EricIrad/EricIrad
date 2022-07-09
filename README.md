@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricIrad
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently en-rolled in ATLP.
+- 🌱 I’m self taught.
 - 💞️ I’m looking to collaborate on web-dev projects
 - 📫 How to reach me iraduhaeric@gmail.com
 
